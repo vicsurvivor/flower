@@ -3,7 +3,8 @@
 
 ## 圖片檢視
 人工檢視訓練資料集，將不清楚、分類不正確、單圖包含多個分類的資料 
-![bad_image](https://github.com/user-attachments/assets/79f5033d-bb5b-4e85-baf6-ee11d9d51cf9)
+![bad_image](https://github.com/user-attachments/assets/7174ef9b-f0dc-451d-9719-d01c19ba9198)
+
 排除 daisy: 0 dandelion: 1 roses: 41 sunflower:1 tulips: 68, total = 111張
 最後Training Data使用2952張
 ## 模型選擇
